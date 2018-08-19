@@ -5,6 +5,7 @@ Include:
 * Swagger 2
 * Spring Security  - OAuth2 configuration
 * Spring Data - JPA, Hibernate ORM & FlyWay Database Migration Tool
+* REST
 * Spring Mail - Thymeleaf
 * Configuration Properties - Multiple profiles
 * Localization - UTF8 Bundle Control
