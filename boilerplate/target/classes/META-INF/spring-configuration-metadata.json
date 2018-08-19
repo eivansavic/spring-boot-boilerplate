@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "boilerplate.app.configuration.CustomProperties",
+      "name": "custom",
+      "type": "boilerplate.app.configuration.CustomProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "boilerplate.app.configuration.CustomProperties",
+      "name": "custom.server-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "boilerplate.app.configuration.CustomProperties",
+      "name": "custom.verification-token-expiration-time-in-days",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
