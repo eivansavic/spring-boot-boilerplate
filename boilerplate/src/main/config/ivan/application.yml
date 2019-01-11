@@ -5,7 +5,7 @@ spring:
     password: root
   jpa:
     properties.hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
-    hibernate.ddl-auto: update
+    hibernate.ddl-auto: validate
   flyway:
     locations: classpath:/database/migrations
   mail:
@@ -16,7 +16,7 @@ spring:
     properties.mail.smtp.starttls.enable: true
 
 server:
-  port: 8085
+  port: 8080
 
 custom:
   serverUrl: 'http://localhost:8080'
